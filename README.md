@@ -1,5 +1,5 @@
 # 2-Breed
-
+hosted-link-> https://tanishka-khamesara.github.io/2-Breed/greed.html
 
 ![Screenshot (125)](https://github.com/Tanishka-khamesara/2-Breed/assets/127411985/c2b2a204-ddf0-4a35-a919-6a11466f230d)
 
